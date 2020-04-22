@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="DevRadar" src="https://user-images.githubusercontent.com/47324432/77862830-6d6c6280-71f4-11ea-9df3-f274b10152c7.png" width="950px" />
+	<img alt="DevRadar" src="https://user-images.githubusercontent.com/47324432/79930859-f8b9cc00-841f-11ea-9279-008c14ad8866.jpg" width="950px" />
 </h1>
 
 <h3 align="center">
